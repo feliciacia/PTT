@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Larry\Desktop\Project3\Project3\</FILEPATH>
+      <FILENAME>BoardManager.h</FILENAME>
+      <LINE>29</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>列舉類型 'BoardState' 不限範圍。偏好 'enum class' 過於 'enum' (Enum.3)。</DESCRIPTION>
+    <FUNCTION>BoardManager::{ctor}</FUNCTION>
+    <DECORATED>??0BoardManager@@QAE@XZ</DECORATED>
+    <FUNCLINE>30</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

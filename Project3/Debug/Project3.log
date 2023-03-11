@@ -1,0 +1,10 @@
+﻿  Board.cpp
+C:\Users\Larry\Desktop\Project3\Project3\Board.cpp(34,20): warning C4018: '<': signed/unsigned 不相符
+  Post.cpp
+  Source.cpp
+  BoardManager.cpp
+  User.cpp
+  正在執行 C/C++ 的 Code Analysis...
+  正在產生程式碼...
+  Project3.vcxproj -> C:\Users\Larry\Desktop\Project3\Debug\Project3.exe
+C:\Users\Larry\Desktop\Project3\Project3\BoardManager.h(29): warning C26812: 列舉類型 'BoardState' 不限範圍。偏好 'enum class' 過於 'enum' (Enum.3)。
